@@ -1,6 +1,6 @@
 # clonación de la interfaz de Google con HTML5 y CSS3
 
-## **INDICE**
+## **ÍNDICE**
 * [1. Intro](#)
 * [2. Qué construí](#)
 * [3. Objetivo del proyecto](#)
@@ -16,7 +16,7 @@ En este proyecto me enfoque en la clonación de la interfaz de Google. Contiene 
 
 * **HEADER**: Sección que involucra la foto de mi perfil, iconos y el menu con hipervínculos.
 * **MAIN**: Sección del contenedor para los elementos centrales de la página: logo, barra de busqueda
-* **FOOTER
+* **FOOTER**:
 ## 3. Objetrico del proyecto
 Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
 
