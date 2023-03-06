@@ -20,4 +20,4 @@ En este proyecto me enfoque en la clonación de la interfaz de Google. Contiene 
 ## 3. Objetrico del proyecto
 Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
 
-## 4. Link a Demo (https://zippy-kataifi-a78894.netlify.app/)
+## 4. Link a Demo (https://erikaclonaciongoogle.netlify.app)
